@@ -1,5 +1,5 @@
 React TypeScript Todo List
-<img width="720" height="1214" alt="IMG_20260719_033519" src="https://github.com/user-attachments/assets/7a1a9557-96e4-457c-bd11-f28ff436f795" />
+<img width="720" height="1214" alt="IMG_20260719_033519" src="https://github.com/user-attachments/assets/7a1a9557-96e4-457c-bd11-f28ff436f795" width="300" style="border: 2px solid #ddd; border-radius: 8px; padding: 5px;" />
 
 A simple Todo List application built with React and TypeScript. This project allows users to add, complete, delete, and filter todo items. Todo data is stored in the browser's localStorage, so tasks remain available even after refreshing the page.
 
