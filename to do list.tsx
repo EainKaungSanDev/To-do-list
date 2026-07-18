@@ -64,3 +64,4 @@ const filteredList = list.filter(item => {
         </div>
     )
 }
+export default TodoList
