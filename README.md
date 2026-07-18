@@ -1,22 +1,25 @@
-# To Do List
+React TypeScript Todo List
 
-=>Todo List App
+A simple Todo List application built with React and TypeScript. This project allows users to add, complete, delete, and filter todo items. Todo data is stored in the browser's localStorage, so tasks remain available even after refreshing the page.
 
-​This is a simple and efficient Todo List application built with React and TypeScript.
+=>Features
+Add new todo items
+Complete and uncomplete todo items
+Delete todo items
+Filter todos by All, Done, and Active status
+Save todos using localStorage
+Keep data after page refresh
+Simple and clean user interface
+Technologies Used
+React, TypeScript, React Hooks (useState, useEffect), React Icons, LocalStorage, CSS Inline Styling.
 
-=>​Features
+=>Usage
+Type a task in the input field and press Enter to add a new todo. Click a todo item to toggle its completed status. Click the delete icon to remove a todo. Use the filter buttons to display all tasks, completed tasks, or active tasks.
 
-​Add tasks by typing and pressing Enter.
-​Click a task to mark it as completed or active.
-​Filter tasks by All, Active, or Completed.
-​Clean and responsive interface.
+=>Installation
+Clone this repository, install dependencies, and start the development server.
 
-=>How to Run
-
-​Clone the project or copy the code files.
-​Open your terminal in the project folder.
-​Run the following command to install dependencies:
+git clone your-repository-url
+cd todo-list
 npm install
-​Run the following command to start the app:
 npm run dev
-​Open your browser and go to the local address shown in your terminal (usually http://localhost:5173).
