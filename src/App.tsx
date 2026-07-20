@@ -69,6 +69,8 @@ if(edit === null) return;
 
     return(
         <div>
+           <h1>To do List</h1>
+
             <input type="text" value={input} onChange={Change} onKeyDown={KeyDown}/>
             <div>
                 {array.map(item => (
